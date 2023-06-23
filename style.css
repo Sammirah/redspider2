@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: rgb(205, 92, 92	);
+}
+input {
+    width: 505px !important;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+button {
+    background: red;
+}
